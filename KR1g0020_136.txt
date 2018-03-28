@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 七經孟子考文補遺
-#+DATE: 2018-03-28 13:09:34.744203
+#+DATE: 2018-03-28 13:09:35.853588
 #+PROPERTY: ID KR1g0020
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷一百三十六
 <pb:KR1g0020_WYG_136-1a>¶
 食無常正嘉萬厯本無作者古本足利本與崇禎本同¶

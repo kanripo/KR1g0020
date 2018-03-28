@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 七經孟子考文補遺
-#+DATE: 2018-03-28 13:09:34.342678
+#+DATE: 2018-03-28 13:09:35.292484
 #+PROPERTY: ID KR1g0020
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷四十五
 <pb:KR1g0020_WYG_045-1a>¶
 欽定四庫全書¶
